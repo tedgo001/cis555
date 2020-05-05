@@ -1,0 +1,7 @@
+edu/upenn/cis/stormlite/mapreduce/TestMapReduce.class
+edu/upenn/cis/stormlite/TestWordCountStreaming.class
+edu/upenn/cis/stormlite/mapreduce/WordFileSpout.class
+edu/upenn/cis/stormlite/WordCounter.class
+edu/upenn/cis/stormlite/PrintBolt.class
+edu/upenn/cis/stormlite/WordSpout.class
+edu/upenn/cis/stormlite/mapreduce/GroupWords.class
